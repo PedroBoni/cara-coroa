@@ -1,0 +1,31 @@
+*{
+   margin: 0;
+   padding: 0;
+}
+body{
+   background-color:#36393F;
+   color: #c5c8ce;
+   text-align: center;
+   font-family: 'Roboto', sans-serif;
+}
+main{
+   display: flex;
+   justify-content: center;
+   margin-top: 100px;
+   max-width: 700px;
+   flex-direction: column;
+   padding: 10px;
+}
+div {
+   margin-top: 20px;
+}
+button{
+   background: rgba(0, 0, 255, 0);
+   border: 0;
+   margin: 0;
+   padding: 0;
+}
+#resultado{
+   font-weight: bold;
+   font-size: 30px;
+}
